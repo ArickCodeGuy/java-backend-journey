@@ -10,6 +10,7 @@ This repo is for traking my journey towards becoming backend dev.
 - [Requirements](#requirements)
 - [Basics](#basics)
 - [Mock interviews](#mock-interviews)
+- [SQL](#sql)
 
 ## Requirements
 
@@ -30,3 +31,8 @@ Personally i should watch more of that and gather more information.
 List of commonly asked questions, terms that needed to be excelently known. This is the basics. If you struggle with answer with that you need to study
 
 [List](./INTERVIEW.todo)
+
+## SQL
+
+No introduction needed. Backend -> need to know databases and how to manipulate them
+[Link](./SQL.todo)
