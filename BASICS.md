@@ -1,0 +1,17 @@
+- [ ] Java [w3schools](https://www.w3schools.com/java/)
+  - [x] [primitives](./basics/javadocs/simple/) (04-08-2025)
+  - [x] [polymorphism](./basics/javadocs/simple/) (04-08-2025)
+  - [x] [abstract keyword](./basics/javadocs/abstractpack/) (04-08-2025)
+  - [x] [enums](./basics/javadocs/enumpack/) (04-08-2025)
+  - [ ] Errors
+    - [ ] Compile time
+    - [ ] Run time
+    - [ ] Logical
+  - [ ] public, private, protected
+  - [ ] inheritance. final class
+  - [ ] static keyword
+- [ ] JVM
+- [ ] Spring boot
+- [ ] Scaling
+- [ ] Caching
+- [ ] High-load, load-balancing, prioritization

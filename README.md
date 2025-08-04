@@ -2,10 +2,10 @@
 
 [README.md template](https://github.com/ArickCodeGuy/readme-template)
 
-**Draft**. `./BASICS.todo` and `REQUIREMENTS.todo` would need to have subtasks
+**Draft**. `./BASICS.md` and `REQUIREMENTS.md` would need to have subtasks
 
 This repo is for traking my journey towards becoming backend dev.
-**Every** check within `.todo` file should be followed with link
+**Every** check within `.md` file should be followed with link
 
 ## Table of Contents
 
@@ -16,19 +16,19 @@ This repo is for traking my journey towards becoming backend dev.
 
 ## Requirements
 
-[Todo](./REQUIREMENTS.todo)
+[Todo](./REQUIREMENTS.md)
 
 Let's start with obvious. Job requirements. If you don't have those skills you don't even pass hr screening.
 
 ## Basics
 
-[Todo](./BASICS.todo)
+[Todo](./BASICS.md)
 
 List of basic that needed to be known and **proven** to be known
 
 ## Mock interviews
 
-[Todo](./INTERVIEW.todo)
+[Todo](./INTERVIEW.md)
 
 Personally i should watch more of that and gather more information.
 
@@ -36,6 +36,6 @@ List of commonly asked questions, terms that needed to be excelently known. This
 
 ## SQL
 
-[Todo](./SQL.todo)
+[Todo](./SQL.md)
 
 No introduction needed. Backend -> need to know databases and how to manipulate them
