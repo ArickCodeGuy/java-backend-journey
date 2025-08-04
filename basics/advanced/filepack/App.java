@@ -19,6 +19,18 @@ public class App {
       FileWriter myWriter = new FileWriter(fileName, true);
       myWriter.write("\n1");
       myWriter.close();
+
+      System.out.println("Successfully appeended '1' to " + fileName);
+    } catch(IOException e) {
+      e.printStackTrace();
+    }
+  }
+
+  public static void createFile() {
+    try {
+      FileWriter myFileWriter = new FileWriter(fileName);
+      myFileWriter.write("");
+      myFileWriter.close();
     } catch(IOException e) {
       e.printStackTrace();
     }
@@ -35,6 +47,8 @@ public class App {
       }
       myScanner.close();
     } catch(FileNotFoundException e) {
+      createFile();
+      
       System.out.println("Error reading file " + fileName);
     }
   }

@@ -9,7 +9,8 @@
     - [x] [enums](./basics/basics/enumpack/) (04-08-2025)
     - [x] [Errors. Types of errors. Try catch](./basics/basics/errorpack/) (04-08-2025)
   - [ ] Advanced
-    - [ ] File. Read write
+    - [x] [File. Read write](./basics/advanced/filepack/) (04-08-2025)
+    - [ ] Java Data Structures
 - [ ] JVM
 - [ ] Spring boot
 - [ ] Scaling
