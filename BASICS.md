@@ -1,14 +1,15 @@
 - [ ] Java [w3schools](https://www.w3schools.com/java/)
   - [x] Very basic things
-    - [x] [primitives](./basics/javadocs/simple/) (04-08-2025)
-    - [x] [polymorphism](./basics/javadocs/simple/) (04-08-2025)
-    - [x] [inheritance. final class](./basics/javadocs/simple/) (04-08-2025)
-    - [x] [public, private, protected](./basics//javadocs/simple/) (04-08-2025)
-    - [x] [static keyword](./basics/javadocs/simple/) (04-08-2025)
-    - [x] [abstract keyword](./basics/javadocs/abstractpack/) (04-08-2025)
-    - [x] [enums](./basics/javadocs/enumpack/) (04-08-2025)
-    - [x] [Errors. Types of errors. Try catch](./basics/javadocs/errorpack/) (04-08-2025)
+    - [x] [primitives](./basics/basics/simple/) (04-08-2025)
+    - [x] [polymorphism](./basics/basics/simple/) (04-08-2025)
+    - [x] [inheritance. final class](./basics/basics/simple/) (04-08-2025)
+    - [x] [public, private, protected](./basics//basics/simple/) (04-08-2025)
+    - [x] [static keyword](./basics/basics/simple/) (04-08-2025)
+    - [x] [abstract keyword](./basics/basics/abstractpack/) (04-08-2025)
+    - [x] [enums](./basics/basics/enumpack/) (04-08-2025)
+    - [x] [Errors. Types of errors. Try catch](./basics/basics/errorpack/) (04-08-2025)
   - [ ] Advanced
+    - [ ] File. Read write
 - [ ] JVM
 - [ ] Spring boot
 - [ ] Scaling
