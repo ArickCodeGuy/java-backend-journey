@@ -1,15 +1,14 @@
 - [ ] Java [w3schools](https://www.w3schools.com/java/)
-  - [x] [primitives](./basics/javadocs/simple/) (04-08-2025)
-  - [x] [polymorphism](./basics/javadocs/simple/) (04-08-2025)
-  - [x] [abstract keyword](./basics/javadocs/abstractpack/) (04-08-2025)
-  - [x] [enums](./basics/javadocs/enumpack/) (04-08-2025)
-  - [ ] Errors
-    - [ ] Compile time
-    - [ ] Run time
-    - [ ] Logical
-  - [ ] public, private, protected
-  - [ ] inheritance. final class
-  - [ ] static keyword
+  - [x] Very basic things
+    - [x] [primitives](./basics/javadocs/simple/) (04-08-2025)
+    - [x] [polymorphism](./basics/javadocs/simple/) (04-08-2025)
+    - [x] [inheritance. final class](./basics/javadocs/simple/) (04-08-2025)
+    - [x] [public, private, protected](./basics//javadocs/simple/) (04-08-2025)
+    - [x] [static keyword](./basics/javadocs/simple/) (04-08-2025)
+    - [x] [abstract keyword](./basics/javadocs/abstractpack/) (04-08-2025)
+    - [x] [enums](./basics/javadocs/enumpack/) (04-08-2025)
+    - [x] [Errors. Types of errors. Try catch](./basics/javadocs/errorpack/) (04-08-2025)
+  - [ ] Advanced
 - [ ] JVM
 - [ ] Spring boot
 - [ ] Scaling

@@ -1,5 +1,7 @@
 package simple;
-public class Honda extends Car {
+
+// You can't extend from Honda
+final public class Honda extends Car {
   public Honda() {}
 
   // This is polymorphism
