@@ -8,10 +8,14 @@
     - [x] [abstract keyword](./basics/basics/abstractpack/) (04-08-2025)
     - [x] [enums](./basics/basics/enumpack/) (04-08-2025)
     - [x] [Errors. Types of errors. Try catch](./basics/basics/errorpack/) (04-08-2025)
-  - [ ] Advanced
+  - [x] Advanced (08-08-2025)
     - [x] [File. Read write](./basics/advanced/filepack/) (04-08-2025)
     - [x] [Java Data Structures](./basics/advanced/ds/) (08-08-2025)
-    - [ ] Collections
+    - [x] [Generics](./basics/advanced/ds/) (08-08-2025)
+    - [x] [Override](./basics/basics/simple/Honda.java) (08-08-2025)
+    - [x] [Regex](./basics/advanced/regex/) (08-08-2025)
+    - [x] [Threads](./basics/advanced/theads/) (08-08-2025)
+    - [x] [Lambda](./basics/advanced/lambda/) (08-08-2025)
 - [ ] JVM
 - [ ] Spring boot
 - [ ] Scaling

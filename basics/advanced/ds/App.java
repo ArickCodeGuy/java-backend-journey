@@ -1,4 +1,4 @@
-package basics.advanced.ds;
+package ds;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -33,5 +33,9 @@ public class App {
     while (carsIterator.hasNext()) {
       System.out.println("CarsIterator: " + carsIterator.next());
     }
+
+    Generic<String> g = new Generic<>();
+    g.set("Andy");
+    System.out.println("Hello, " + g.get());
   }
 }

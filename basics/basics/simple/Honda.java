@@ -4,7 +4,7 @@ package simple;
 final public class Honda extends Car {
   public Honda() {}
 
-  // This is polymorphism
+  @Override
   public void honk() {
     System.out.print("HONDA: ");
     super.honk();
