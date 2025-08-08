@@ -10,7 +10,8 @@
     - [x] [Errors. Types of errors. Try catch](./basics/basics/errorpack/) (04-08-2025)
   - [ ] Advanced
     - [x] [File. Read write](./basics/advanced/filepack/) (04-08-2025)
-    - [ ] Java Data Structures
+    - [x] [Java Data Structures](./basics/advanced/ds/) (08-08-2025)
+    - [ ] Collections
 - [ ] JVM
 - [ ] Spring boot
 - [ ] Scaling
