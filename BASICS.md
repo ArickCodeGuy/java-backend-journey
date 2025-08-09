@@ -1,4 +1,4 @@
-- [ ] Java [w3schools](https://www.w3schools.com/java/)
+- [x] Java [w3schools](https://www.w3schools.com/java/) (09-08-2025)
   - [x] Very basic things
     - [x] [primitives](./basics/basics/simple/) (04-08-2025)
     - [x] [polymorphism](./basics/basics/simple/) (04-08-2025)
@@ -21,4 +21,5 @@
 - [ ] Spring boot
 - [ ] Scaling
 - [ ] Caching
+- [ ] Databases common
 - [ ] High-load, load-balancing, prioritization
