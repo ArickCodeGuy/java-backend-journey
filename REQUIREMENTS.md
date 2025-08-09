@@ -1,9 +1,12 @@
 - [x] [Problem solving skills](https://leetcode.com/u/ArickCodeGuy/)
 - [ ] CI/CD and Devops
+  - [ ] Images
+  - [ ] Containers
   - [ ] Pipelines
   - [ ] .yml
   - [ ] Jobs
   - [ ] Jenkins
+  - [ ] K8S
 - [ ] Cloud
   - [ ] AWS
   - [ ] GCP
@@ -13,6 +16,7 @@
   - [ ] Kubernetes
 - [ ] Message queue
   - [ ] Apache Kafka
+  - [ ] RabbitMQ
 - [ ] Testing
   - [ ] Unit
   - [ ] Integration
@@ -30,3 +34,8 @@
   - [ ] ClickHouse (metrics)
   - [ ] SQL
   - [ ] NoSQL
+- [ ] Performance analytics
+  - [ ] Java Profilers
+  - [ ] Java VisualVM
+  - [ ] JProfiler
+- [ ] System design
