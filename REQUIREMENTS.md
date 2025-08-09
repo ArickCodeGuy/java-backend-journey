@@ -1,8 +1,32 @@
-- [ ] CI/CD pipelines and DevOps methodologies (Jenkins).
-- [ ] Cloud infrastructure platforms (AWS, GCP, Azure).
-- [ ] Containerization and orchestration tools (Docker, Kubernetes)
-- [ ] Problem solving skills (Leetcode?)
-- [ ] Message queue (Apache Kafka)
-- [ ] Unit, integration testing (Mockito, JUnit 5, Test Containers)
-- [ ] RESTful api. GraphQL.
-- [ ] Databases. PostgreSQL, MongoDB, Redis (SQL and NoSQL).
+- [x] [Problem solving skills](https://leetcode.com/u/ArickCodeGuy/)
+- [ ] CI/CD and Devops
+  - [ ] Pipelines
+  - [ ] .yml
+  - [ ] Jobs
+  - [ ] Jenkins
+- [ ] Cloud
+  - [ ] AWS
+  - [ ] GCP
+  - [ ] Azure
+- [ ] Containerization and orchestration tools
+  - [ ] Docker
+  - [ ] Kubernetes
+- [ ] Message queue
+  - [ ] Apache Kafka
+- [ ] Testing
+  - [ ] Unit
+  - [ ] Integration
+  - [ ] Mockito
+  - [ ] JUnit 5
+  - [ ] Test Containers
+- [ ] API
+  - [ ] REST
+  - [ ] RESTful
+  - [ ] GraphQL
+- [ ] Databases
+  - [ ] PostgreSQL
+  - [ ] MongoDB
+  - [ ] Redis (caching)
+  - [ ] ClickHouse (metrics)
+  - [ ] SQL
+  - [ ] NoSQL
