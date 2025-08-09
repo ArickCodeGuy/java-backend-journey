@@ -16,6 +16,7 @@
     - [x] [Regex](./basics/advanced/regex/) (08-08-2025)
     - [x] [Threads](./basics/advanced/theads/) (08-08-2025)
     - [x] [Lambda](./basics/advanced/lambda/) (08-08-2025)
+    - [x] [Synchronizing threads](./basics/advanced/syncing_threads/) (09-08-2025)
 - [ ] JVM
 - [ ] Spring boot
 - [ ] Scaling
