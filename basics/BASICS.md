@@ -7,7 +7,7 @@
     - [x] [static keyword](./basics/basics/simple/) (04-08-2025)
     - [x] [abstract keyword](./basics/basics/abstractpack/) (04-08-2025)
     - [x] [enums](./basics/basics/enumpack/) (04-08-2025)
-    - [x] [Errors. Types of errors. Try catch](./basics/basics/errorpack/) (04-08-2025)
+    - [x] [Exceptions. Errors. Types of errors. Try catch](./basics/basics/errorpack/) (04-08-2025)
   - [x] Advanced (08-08-2025)
     - [x] [File. Read write](./basics/advanced/filepack/) (04-08-2025)
     - [x] [Java Data Structures](./basics/advanced/ds/) (08-08-2025)
@@ -17,9 +17,19 @@
     - [x] [Threads](./basics/advanced/theads/) (08-08-2025)
     - [x] [Lambda](./basics/advanced/lambda/) (08-08-2025)
     - [x] [Synchronizing threads](./basics/advanced/syncing_threads/) (09-08-2025)
+- [ ] Databases
+  - [ ] SQL
+  - [ ] NoSQL
+  - [ ] Migrations
+  - [ ] PostgreSQL
+  - [ ] MongoDB
+  - [ ] Redis (caching)
+  - [ ] ClickHouse (metrics)
+- [ ] [Spring boot](https://spring.io/guides/gs/spring-boot)
 - [ ] JVM
-- [ ] Spring boot
 - [ ] Scaling
 - [ ] Caching
-- [ ] Databases common
-- [ ] High-load, load-balancing, prioritization
+- [ ] Scalability
+  - [ ] High-load
+  - [ ] Load-balancing
+  - [ ] Prioritization

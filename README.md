@@ -22,7 +22,7 @@ Let's start with obvious. Job requirements. If you don't have those skills you d
 
 ## Basics
 
-[Todo](./BASICS.md)
+[Todo](./basics/BASICS.md)
 
 List of basic that needed to be known and **proven** to be known
 
@@ -36,6 +36,7 @@ List of commonly asked questions, terms that needed to be excelently known. This
 
 ## SQL
 
-[Todo](./SQL.md)
+[Tutorial](./sql_w3/SQL_W3.md)
+[Quiz](./sql_quiz/SQL_QUIZ.md)
 
 No introduction needed. Backend -> need to know databases and how to manipulate them
