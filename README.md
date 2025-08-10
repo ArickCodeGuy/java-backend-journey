@@ -37,6 +37,7 @@ List of commonly asked questions, terms that needed to be excelently known. This
 ## SQL
 
 [Tutorial](./sql_w3/SQL_W3.md)
+
 [Quiz](./sql_quiz/SQL_QUIZ.md)
 
 No introduction needed. Backend -> need to know databases and how to manipulate them
