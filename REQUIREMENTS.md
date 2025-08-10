@@ -34,6 +34,7 @@
   - [ ] ClickHouse (metrics)
   - [ ] SQL
   - [ ] NoSQL
+  - [ ] Migrations
 - [ ] Performance analytics
   - [ ] Java Profilers
   - [ ] Java VisualVM
