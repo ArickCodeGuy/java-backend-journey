@@ -11,7 +11,7 @@ INSERT INTO Customer (
 ), (
   'Marry',
   'Jane',
-  'France',
+  NULL,
   'F'
 ), (
   'Bob',
