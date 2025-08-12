@@ -13,4 +13,6 @@
 - [x] [Update](./basics/update.sql) (11-08-2025)
 - [x] [Delete](./basics/delete.sql) (11-08-2025)
 - [x] [Select top](./basics/select.sql) (11-08-2025)
-- [ ] [Min max](./basics/)
+- [x] [Min max](./basics/minmax.sql) (12-08-2025)
+- [x] [Count](./basics/count.sql) (12-08-2025)
+- [ ] [Join](./basics/join.sql)

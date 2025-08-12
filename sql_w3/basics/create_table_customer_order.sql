@@ -1,0 +1,5 @@
+CREATE TABLE CustomerOrder (
+  id int NOT NULL PRIMARY KEY AUTO_INCREMENT,
+  customerId FOREIGN KEY REFERENCES Customer(id),
+  orderId FOREIGN KEY REFERENCES Order(id)
+);

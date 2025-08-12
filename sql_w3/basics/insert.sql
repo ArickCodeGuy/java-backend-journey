@@ -2,21 +2,25 @@ INSERT INTO Customer (
   first_name,
   last_name,
   country_of_origin,
-  gender
+  gender,
+  age
 ) VALUES (
   'Tom',
   'Brady',
   'USA',
-  'M'
+  'M',
+  20
 ), (
   'Marry',
   'Jane',
   NULL,
-  'F'
+  'F',
+  21
 ), (
   'Bob',
   'Marley',
   'Jamaica',
-  'M'
+  'M',
+  45
 );
 
