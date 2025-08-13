@@ -1,6 +1,6 @@
 # Technical interview common questions
 
-**Draft**
+**TODO** watch more
 
 - [ ] Java
   - [ ] Exceptions

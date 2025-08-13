@@ -3,9 +3,9 @@
 - [x] [w3schools](https://www.w3schools.com/java/) (09-08-2025)
   - [x] Very basic things
     - [x] [primitives](./basics/simple/App.java) (04-08-2025)
-    - [x] [polymorphism](./basics/simple/) (04-08-2025)
+    - [x] [polymorphism](./basics/simple/Honda.java) (04-08-2025)
     - [x] [inheritance. final class](./basics/simple/Honda.java) (04-08-2025)
-    - [x] [public, private, protected](.//basics/simple/App.java) (04-08-2025)
+    - [x] [public, private, protected](./basics/simple/App.java) (04-08-2025)
     - [x] [static keyword](./basics/simple/App.java) (04-08-2025)
     - [x] [abstract keyword](./basics/abstractpack/App.java) (04-08-2025)
     - [x] [enums](./basics/enumpack/App.java) (04-08-2025)
@@ -19,5 +19,5 @@
     - [x] [Threads](./advanced/theads/App.java) (08-08-2025)
     - [x] [Lambda](./advanced/lambda/App.java) (08-08-2025)
     - [x] [Synchronizing threads](./advanced/syncing_threads/App.java) (09-08-2025)
-- [ ] [Spring boot](https://spring.io/guides/gs/spring-boot) **TODO**. Decompose
+- [ ] Spring boot. **TODO**. Decompose from [here](https://spring.io/guides/gs/spring-boot)
 - [ ] JVM. **TODO**. Decompose from [here](https://docs.oracle.com/en/java/javase/24/vm/java-virtual-machine-technology-overview.html)
