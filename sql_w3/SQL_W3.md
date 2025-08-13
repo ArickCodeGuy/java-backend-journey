@@ -15,4 +15,6 @@
 - [x] [Select top](./basics/select.sql) (11-08-2025)
 - [x] [Min max](./basics/minmax.sql) (12-08-2025)
 - [x] [Count](./basics/count.sql) (12-08-2025)
-- [ ] [Join](./basics/join.sql)
+- [x] [Join](./basics/join.sql) (13-08-2025)
+- [ ] [Self join](./basics/join.sql)
+- [ ] [Union](./basics/union.sql)
