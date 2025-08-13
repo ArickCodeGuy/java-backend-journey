@@ -1,4 +1,0 @@
-- [ ] Exceptions
-- [ ] Garbage collection. Distributed garbage collection dgc
-- [ ] rmi
-- [ ] async code, threads. Can we synchronize 2 threads?

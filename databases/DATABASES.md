@@ -1,0 +1,11 @@
+- [ ] Databases
+  - [ ] [Basics](./sql_w3/SQL_W3.md)
+  - [ ] [SQL quiz](./SQL_QUIZ.md)
+  - [ ] SQL
+    - [ ] PostgreSQL
+    - [ ] MySql
+    - [ ] ClickHouse (metrics)
+  - [ ] NoSQL
+    - [ ] MongoDB
+    - [ ] Redis (caching)
+  - [ ] Migrations

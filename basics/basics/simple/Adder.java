@@ -1,4 +1,5 @@
 package simple;
+
 public class Adder {
   private int prevReturn;
 

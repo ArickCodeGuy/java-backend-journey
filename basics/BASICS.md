@@ -1,35 +1,23 @@
-- [x] Java [w3schools](https://www.w3schools.com/java/) (09-08-2025)
+# Basics of java language
+
+- [x] [w3schools](https://www.w3schools.com/java/) (09-08-2025)
   - [x] Very basic things
-    - [x] [primitives](./basics/basics/simple/) (04-08-2025)
-    - [x] [polymorphism](./basics/basics/simple/) (04-08-2025)
-    - [x] [inheritance. final class](./basics/basics/simple/) (04-08-2025)
-    - [x] [public, private, protected](./basics//basics/simple/) (04-08-2025)
-    - [x] [static keyword](./basics/basics/simple/) (04-08-2025)
-    - [x] [abstract keyword](./basics/basics/abstractpack/) (04-08-2025)
-    - [x] [enums](./basics/basics/enumpack/) (04-08-2025)
-    - [x] [Exceptions. Errors. Types of errors. Try catch](./basics/basics/errorpack/) (04-08-2025)
+    - [x] [primitives](./basics/simple/App.java) (04-08-2025)
+    - [x] [polymorphism](./basics/simple/) (04-08-2025)
+    - [x] [inheritance. final class](./basics/simple/Honda.java) (04-08-2025)
+    - [x] [public, private, protected](.//basics/simple/App.java) (04-08-2025)
+    - [x] [static keyword](./basics/simple/App.java) (04-08-2025)
+    - [x] [abstract keyword](./basics/abstractpack/App.java) (04-08-2025)
+    - [x] [enums](./basics/enumpack/App.java) (04-08-2025)
+    - [x] [Exceptions. Errors. Types of errors. Try catch](./basics/errorpack/App.java) (04-08-2025)
   - [x] Advanced (08-08-2025)
-    - [x] [File. Read write](./basics/advanced/filepack/) (04-08-2025)
-    - [x] [Java Data Structures](./basics/advanced/ds/) (08-08-2025)
-    - [x] [Generics](./basics/advanced/ds/) (08-08-2025)
-    - [x] [Override](./basics/basics/simple/Honda.java) (08-08-2025)
-    - [x] [Regex](./basics/advanced/regex/) (08-08-2025)
-    - [x] [Threads](./basics/advanced/theads/) (08-08-2025)
-    - [x] [Lambda](./basics/advanced/lambda/) (08-08-2025)
-    - [x] [Synchronizing threads](./basics/advanced/syncing_threads/) (09-08-2025)
-- [ ] Databases
-  - [ ] SQL
-  - [ ] NoSQL
-  - [ ] Migrations
-  - [ ] PostgreSQL
-  - [ ] MongoDB
-  - [ ] Redis (caching)
-  - [ ] ClickHouse (metrics)
-- [ ] [Spring boot](https://spring.io/guides/gs/spring-boot)
-- [ ] JVM
-- [ ] Scaling
-- [ ] Caching
-- [ ] Scalability
-  - [ ] High-load
-  - [ ] Load-balancing
-  - [ ] Prioritization
+    - [x] [File. Read write](./advanced/filepack/App.java) (04-08-2025)
+    - [x] [Java Data Structures](./advanced/ds/App.java) (08-08-2025)
+    - [x] [Generics](./advanced/ds/App.java) (08-08-2025)
+    - [x] [Override](./basics/simple/Honda.java) (08-08-2025)
+    - [x] [Regex](./advanced/regex/App.java) (08-08-2025)
+    - [x] [Threads](./advanced/theads/App.java) (08-08-2025)
+    - [x] [Lambda](./advanced/lambda/App.java) (08-08-2025)
+    - [x] [Synchronizing threads](./advanced/syncing_threads/App.java) (09-08-2025)
+- [ ] [Spring boot](https://spring.io/guides/gs/spring-boot) **TODO**. Decompose
+- [ ] JVM. **TODO**. Decompose from [here](https://docs.oracle.com/en/java/javase/24/vm/java-virtual-machine-technology-overview.html)

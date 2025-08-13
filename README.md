@@ -11,12 +11,12 @@ This repo is for traking my journey towards becoming backend dev.
 
 - [Requirements](#requirements)
 - [Basics](#basics)
-- [Mock interviews](#mock-interviews)
-- [SQL](#sql)
+- [Interviews](#interviews)
+- [Databases](#databases)
 
 ## Requirements
 
-[Todo](./REQUIREMENTS.md)
+[Todo](./requirements/REQUIREMENTS.md)
 
 Let's start with obvious. Job requirements. If you don't have those skills you don't even pass hr screening.
 
@@ -24,20 +24,16 @@ Let's start with obvious. Job requirements. If you don't have those skills you d
 
 [Todo](./basics/BASICS.md)
 
-List of basic that needed to be known and **proven** to be known
+List of basic that needed to be known and **proven** to be known. Basics of java language
 
-## Mock interviews
+## Interviews
 
-[Todo](./INTERVIEW.md)
+[Todo](./interview/INTERVIEW.md)
 
-Personally i should watch more of that and gather more information.
+List of commonly asked questions, terms that needed to be **excelently** known. This is the basics. If you struggle with answer with that you need to study
 
-List of commonly asked questions, terms that needed to be excelently known. This is the basics. If you struggle with answer with that you need to study
+## Databases
 
-## SQL
+[Todo](./databases/DATABASES.md)
 
-[Tutorial](./sql_w3/SQL_W3.md)
-
-[Quiz](./sql_quiz/SQL_QUIZ.md)
-
-No introduction needed. Backend -> need to know databases and how to manipulate them
+No introduction needed. Backend - need to know databases and how to manipulate them

@@ -1,9 +1,10 @@
 package simple;
-public class MainApp {
+
+public class App {
   public static Adder adder = new Adder();
   public static Honda honda = new Honda();
   
-  // static -> MainApp owns it
+  // static -> App owns it
   // Loads with class
   // final -> Constant. Can not be changed
   public static final double PI = 3.1415;
