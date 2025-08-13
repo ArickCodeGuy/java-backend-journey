@@ -2,8 +2,6 @@
 
 [README.md template](https://github.com/ArickCodeGuy/readme-template)
 
-**Draft**. `./BASICS.md` and `./REQUIREMENTS.md` would need to have subtasks
-
 This repo is for traking my journey towards becoming backend dev.
 **Every** check within `.md` file should be followed with link
 
