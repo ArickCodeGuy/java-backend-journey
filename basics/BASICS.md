@@ -19,5 +19,3 @@
     - [x] [Threads](./advanced/theads/App.java) (08-08-2025)
     - [x] [Lambda](./advanced/lambda/App.java) (08-08-2025)
     - [x] [Synchronizing threads](./advanced/syncing_threads/App.java) (09-08-2025)
-- [ ] Spring boot. **TODO**. Decompose from [here](https://spring.io/guides/gs/spring-boot)
-- [ ] JVM. **TODO**. Decompose from [here](https://docs.oracle.com/en/java/javase/24/vm/java-virtual-machine-technology-overview.html)

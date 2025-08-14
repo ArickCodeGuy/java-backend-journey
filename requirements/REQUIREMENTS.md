@@ -1,36 +1,7 @@
 # Common job requirements for java devs
 
-- [x] [Problem solving skills](https://leetcode.com/u/ArickCodeGuy/)
-- [ ] CI/CD and Devops
-  - [ ] Images
-  - [ ] Containers
-  - [ ] Pipelines
-  - [ ] .yml
-  - [ ] Jobs
-  - [ ] Jenkins
-  - [ ] K8S
-- [ ] Cloud
-  - [ ] AWS
-  - [ ] GCP
-  - [ ] Azure
-- [ ] Containerization and orchestration tools
-  - [ ] Docker
-  - [ ] Kubernetes
-- [ ] Message queue
-  - [ ] Apache Kafka
-  - [ ] RabbitMQ
-- [ ] Testing
-  - [ ] Unit
-  - [ ] Integration
-  - [ ] Mockito
-  - [ ] JUnit 5
-  - [ ] Test Containers
-- [ ] API
-  - [ ] REST
-  - [ ] RESTful
-  - [ ] GraphQL
-- [ ] Performance analytics
-  - [ ] Java Profilers
-  - [ ] Java VisualVM
-  - [ ] JProfiler
-- [ ] System design
+[Problem solving skills](https://leetcode.com/problems)
+[DevOps](../devops/DEVOPS.md)  
+[System design. Design Patterns](../system_design/SYSTEM_DESIGN.md)
+[API and web fundamentals](../advanced/ADVANCED.md)  
+[Testing](../advanced/ADVANCED.md)

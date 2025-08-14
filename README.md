@@ -7,14 +7,15 @@ This repo is for traking my journey towards becoming backend dev.
 
 ## Table of Contents
 
-- [Basics](#basics)
+- [Language](#language)
 - [Databases](#databases)
 - [Interviews](#interviews)
 - [Requirements](#requirements)
 
-## Basics
+## Language
 
-[Todo](./basics/BASICS.md)
+[Todo](./basics/BASICS.md)  
+[Todo](./advanced/ADVANCED.md)
 
 List of basic that needed to be known and **proven** to be known. Basics of java language
 

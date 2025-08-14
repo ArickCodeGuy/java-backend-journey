@@ -7,5 +7,8 @@
     - [ ] ClickHouse (metrics)
   - [ ] NoSQL
     - [ ] MongoDB
+    - [ ] Cassandra
     - [ ] Redis (caching)
   - [ ] Migrations
+  - [ ] JPA
+  - [ ] Object-Relational Mapping (ORM)
