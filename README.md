@@ -1,4 +1,4 @@
-# Java backend requirements
+# Java backend journey
 
 [README.md template](https://github.com/ArickCodeGuy/readme-template)
 
@@ -14,25 +14,25 @@ This repo is for traking my journey towards becoming backend dev.
 
 ## Language
 
-[Todo](./basics/BASICS.md)  
-[Todo](./advanced/ADVANCED.md)
+[Basics](./basics/BASICS.md)  
+[Advanced](./advanced/ADVANCED.md)
 
 List of basic that needed to be known and **proven** to be known. Basics of java language
 
 ## Databases
 
-[Todo](./databases/DATABASES.md)
+[Databases](./databases/DATABASES.md)
 
 No introduction needed. Backend - need to know databases and how to manipulate them
 
 ## Interviews
 
-[Todo](./interview/INTERVIEW.md)
+[Interviews](./interview/INTERVIEW.md)
 
 List of commonly asked questions, terms that needed to be **excelently** known. This is the basics. If you struggle with answer with that you need to study
 
 ## Requirements
 
-[Todo](./requirements/REQUIREMENTS.md)
+[Requirements](./requirements/REQUIREMENTS.md)
 
 Let's start with obvious. Job requirements. If you don't have those skills you don't even pass hr screening.
