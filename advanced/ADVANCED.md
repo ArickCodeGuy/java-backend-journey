@@ -6,6 +6,7 @@
   - [x] Basic controllers (15-08-2025)
   - [x] [OAuth2](https://spring.io/guides/tutorials/spring-boot-oauth2) (15-08-2025)
   - [x] [Unit tests](https://github.com/ArickCodeGuy/spring-test/blob/main/src/test/java/com/example/demo/Cashcard/CashcardJsonTest.java) (16-08-2025)
+  - [ ] [Crud](https://spring.academy/courses/building-a-rest-api-with-spring-boot/lessons/implementing-get)
   - [ ] Postgres
     - [ ] Schemas
     - [ ] Request
