@@ -17,4 +17,4 @@
 - [x] [COUNT](./basics/count.sql) (12-08-2025)
 - [x] [JOIN](./basics/join.sql) (13-08-2025)
 - [x] [Self JOIN](./basics/join.sql) (18-08-2025)
-- [ ] [Union](./basics/union.sql)
+- [x] [Union](./basics/union.sql) (18-08-2025)
