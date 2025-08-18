@@ -20,3 +20,4 @@
 - [x] [UNION](./basics/union.sql) (18-08-2025)
 - [x] [HAVING](./basics/having.sql) (18-08-2025)
 - [x] [EXISTS](./basics/exists.sql) (18-08-2025)
+- [ ] [ANY ALL](./basics/any_all.sql.sql)
