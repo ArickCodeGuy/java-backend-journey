@@ -1,6 +1,7 @@
 # DevOps
 
 - [ ] CI/CD
+  - [ ] Gitlab pipelines
   - [ ] Images
   - [ ] Containers
   - [ ] Pipelines
@@ -16,3 +17,5 @@
 - [ ] Containerization and orchestration tools
   - [ ] Docker
   - [ ] Kubernetes
+- [ ] Automating. Terraform, Ansible, Pulumi
+- [ ] Monitoring. Prometheus, Grafana, ELK Stack
