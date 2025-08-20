@@ -21,3 +21,4 @@
 - [x] [HAVING](./basics/having.sql) (18-08-2025)
 - [x] [EXISTS](./basics/exists.sql) (18-08-2025)
 - [x] [ANY ALL](./basics/any_all.sql.sql) (19-08-2025)
+- [ ] [Procedures](./basics/procedures.sql)
