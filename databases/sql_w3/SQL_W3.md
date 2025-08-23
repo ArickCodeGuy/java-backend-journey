@@ -20,5 +20,10 @@
 - [x] [UNION](./basics/union.sql) (18-08-2025)
 - [x] [HAVING](./basics/having.sql) (18-08-2025)
 - [x] [EXISTS](./basics/exists.sql) (18-08-2025)
-- [x] [ANY ALL](./basics/any_all.sql.sql) (19-08-2025)
-- [ ] [Procedures](./basics/procedures.sql)
+- [x] [ANY ALL](./basics/any_all.sql) (19-08-2025)
+- [x] [Procedures](./basics/procedures.sql) (23-08-2025)
+- [x] [ALTER TABLE](./basics/alter_table.sql) (23-08-2025)
+
+- [SELECT INTO](https://www.w3schools.com/sql/sql_select_into.asp). For copying data
+- [Operators](https://www.w3schools.com/sql/sql_operators.asp). Pretty much like in all programming languages
+- [BACKUP DATABASE](https://www.w3schools.com/sql/sql_backup_db.asp). Create a full back up

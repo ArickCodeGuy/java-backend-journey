@@ -19,3 +19,4 @@
     - [x] [Threads](./advanced/theads/App.java) (08-08-2025)
     - [x] [Lambda](./advanced/lambda/App.java) (08-08-2025)
     - [x] [Synchronizing threads](./advanced/syncing_threads/App.java) (09-08-2025)
+- [ ] [Javarush](https://javarush.com/quests/lectures/questsyntaxpro.level01.lecture07)
