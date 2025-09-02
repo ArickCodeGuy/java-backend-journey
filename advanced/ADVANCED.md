@@ -1,5 +1,7 @@
 # Things you should focus on after you learn basics of language
 
+Before you go. Learn [basics](../basics/BASICS.md)
+
 ## General
 
 - [ ] [Spring boot](https://github.com/ArickCodeGuy/spring-test). **TODO**. Decompose from [here](https://spring.academy/courses) and [here](https://www.baeldung.com/spring-boot)
@@ -48,3 +50,22 @@
 - [ ] Java Profilers
 - [ ] Java VisualVM
 - [ ] JProfiler
+
+## Databases
+
+- [ ] SQL
+  - [ ] PostgreSQL
+  - [ ] MySql
+  - [ ] ClickHouse (metrics)
+- [ ] NoSQL
+  - [ ] MongoDB
+  - [ ] Cassandra
+  - [ ] Redis (caching)
+- [ ] Migrations
+- [ ] JPA
+- [ ] Object-Relational Mapping (ORM)
+
+## Extra
+
+- [ ] [Javarush](https://javarush.com/quests/lectures/questsyntaxpro.level01.lecture07)
+- [ ] [SQL quiz](./SQL_QUIZ.md)

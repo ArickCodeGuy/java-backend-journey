@@ -7,32 +7,29 @@ This repo is for traking my journey towards becoming backend dev.
 
 ## Table of Contents
 
-- [Language](#language)
+- [Basics](#basics)
 - [Databases](#databases)
-- [Interviews](#interviews)
 - [Requirements](#requirements)
+- [Interviews](#interviews)
 
-## Language
+## Basics
 
-[Basics](./basics/BASICS.md)  
+[Basics](./basics/BASICS.md)
+
+List of basic that needed to be known and **proven** to be known. Basics of java language, databases and all backend basic stuff
+
+## Advanced
+
 [Advanced](./advanced/ADVANCED.md)
-
-List of basic that needed to be known and **proven** to be known. Basics of java language
-
-## Databases
-
-[Databases](./databases/DATABASES.md)
-
-No introduction needed. Backend - need to know databases and how to manipulate them
-
-## Interviews
-
-[Interviews](./interview/INTERVIEW.md)
-
-List of commonly asked questions, terms that needed to be **excelently** known. This is the basics. If you struggle with answer with that you need to study
 
 ## Requirements
 
 [Requirements](./requirements/REQUIREMENTS.md)
 
 Let's start with obvious. Job requirements. If you don't have those skills you don't even pass hr screening.
+
+## Interviews
+
+[Interviews](./interview/INTERVIEW.md)
+
+List of commonly asked questions, terms that needed to be **excelently** known. This is the basics. If you struggle with answer with that you need to study
