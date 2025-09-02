@@ -55,7 +55,7 @@ Extra:
 
 ## Git
 
-- [ ] Pull / Push / Branches, Commits
-- [ ] Merge / Rebase
-- [ ] Cherrypick
-- [ ] Conflicts
+- [x] Pull / Push / Branches / Commits
+- [x] Merge / Rebase
+- [x] Cherrypick
+- [x] Conflicts
