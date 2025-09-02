@@ -21,7 +21,6 @@ Before you go. Learn [basics](../basics/BASICS.md)
   - [ ] HTTP, HTTPS
   - [ ] REST, RESTful, GraphQL
   - [ ] API Documentation (Swagger/OpenAPI)
-- [x] Git (version control)
 - [ ] Build Tools
   - [ ] Maven
   - [ ] Graddle

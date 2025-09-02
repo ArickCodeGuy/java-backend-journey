@@ -8,7 +8,7 @@ This repo is for traking my journey towards becoming backend dev.
 ## Table of Contents
 
 - [Basics](#basics)
-- [Databases](#databases)
+- [Advanced](#advanced)
 - [Requirements](#requirements)
 - [Interviews](#interviews)
 
@@ -20,16 +20,18 @@ List of basic that needed to be known and **proven** to be known. Basics of java
 
 ## Advanced
 
+Continuation of [basics](#basics) chapter. More in depth knowledge
+
 [Advanced](./advanced/ADVANCED.md)
 
 ## Requirements
 
 [Requirements](./requirements/REQUIREMENTS.md)
 
-Let's start with obvious. Job requirements. If you don't have those skills you don't even pass hr screening.
+Let's start with obvious. Job requirements. If you don't have those skills in your resume you don't even pass hr screening (or worse ATS).
 
 ## Interviews
 
 [Interviews](./interview/INTERVIEW.md)
 
-List of commonly asked questions, terms that needed to be **excelently** known. This is the basics. If you struggle with answer with that you need to study
+List of commonly asked questions, terms that needed to be **excelently** known. Every interview is different. You may not know every answer. If you struggle with answers you might need to study.

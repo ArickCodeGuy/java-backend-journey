@@ -50,3 +50,10 @@
 - [SELECT INTO](https://www.w3schools.com/sql/sql_select_into.asp). For copying data
 - [Operators](https://www.w3schools.com/sql/sql_operators.asp). Pretty much like in all programming languages
 - [BACKUP DATABASE](https://www.w3schools.com/sql/sql_backup_db.asp). Create a full back up
+
+## Git
+
+- [ ] Pull / Push / Branches, Commits
+- [ ] Merge / Rebase
+- [ ] Cherrypick
+- [ ] Conflicts

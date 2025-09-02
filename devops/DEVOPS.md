@@ -4,7 +4,6 @@
   - [ ] Gitlab pipelines
   - [ ] Images
   - [ ] Containers
-  - [ ] Pipelines
   - [ ] .yml
   - [ ] Jobs
   - [ ] Jenkins

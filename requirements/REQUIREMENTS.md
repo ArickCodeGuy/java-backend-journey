@@ -13,19 +13,17 @@ Pick one. You don't need to grind leetcode style problems all day
 
 ## Language advanced. Web funtamentals. Testing
 
-Continuation of [basics](../basics/BASICS.md) chapter. If you didn't complete it you should go back and finish this one
-
 [Link](../advanced/ADVANCED.md)
 
 ## DevOps
 
-TBH it's more of a middle+ chapter. Because it's a completely different field from backend
+To be honest it's more of a middle+ chapter. Because it's a completely different field from backend
 
 [Link](../devops/DEVOPS.md)
 
 ## System design. Design Patterns
 
-You DON'T need this until you're senior+.
+You **DON'T** need this until you're senior+.
 
 If job asks you for that at middle level. They look for senior+ for middle salary.
 
