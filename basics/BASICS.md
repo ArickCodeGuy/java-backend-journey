@@ -47,6 +47,8 @@
 - [x] [Procedures](./sql/procedures.sql) (23-08-2025)
 - [x] [ALTER TABLE](./sql/alter_table.sql) (23-08-2025)
 
+Extra:
+
 - [SELECT INTO](https://www.w3schools.com/sql/sql_select_into.asp). For copying data
 - [Operators](https://www.w3schools.com/sql/sql_operators.asp). Pretty much like in all programming languages
 - [BACKUP DATABASE](https://www.w3schools.com/sql/sql_backup_db.asp). Create a full back up
