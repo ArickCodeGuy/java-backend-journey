@@ -3,14 +3,23 @@
 **TODO** watch more
 
 - Java
-  - [ ] Exceptions (checked / unchecked). Exception handling. Methods of `Exception` class
+  - [ ] Exceptions
+    - [ ] Checked
+    - [ ] Unchecked
+    - [ ] Handling
+    - [ ] Methods `Exception` class
   - [ ] Constructor
-  - [ ] Threads lifecycle. Statess
+  - [ ] Threads, Runnable. Asynchronous code
+    - [ ] Creating
+    - [ ] Lifecycle
+    - [ ] States
+    - [ ] Syncing 2 threads
   - [ ] Daemon thread
-    - [ ] GC (Garbage collection). DGC (Distributed Garbage Collection)
-  - [ ] RMI (Remote Method Invocation). Why? How to create?
-  - [ ] Asynchronous code
-  - [ ] Threads. Creating threads. Syncing 2 threads
+    - [ ] GC (Garbage collection)
+    - [ ] DGC (Distributed Garbage Collection)
+  - [ ] RMI (Remote Method Invocation)
+    - [ ] Why?
+    - [ ] How to create?
   - [ ] What is JVM
     - [ ] Classloader
     - [ ] Heap
