@@ -3,20 +3,27 @@
 **TODO** watch more
 
 - Java
+  - [ ] What is OOP
+  - [ ] Classes
+    - [ ] Wrapper classes
+    - [ ] Aggregation
+    - [ ] Constructor
+    - [ ] Singleton class
+    - [ ] `java.lang.System` class
+    - [ ] `java.lang.Object` class. Superclass
   - [ ] Exceptions
     - [ ] Checked
     - [ ] Unchecked
-    - [ ] Handling
+    - [ ] Exceptions handling
     - [ ] Methods `Exception` class
-  - [ ] Constructor
   - [ ] Threads, Runnable. Asynchronous code
     - [ ] Creating
     - [ ] Lifecycle
     - [ ] States
     - [ ] Syncing 2 threads
-  - [ ] Daemon thread
-    - [ ] GC (Garbage collection)
-    - [ ] DGC (Distributed Garbage Collection)
+    - [ ] Daemon thread
+      - [ ] GC (Garbage collection)
+      - [ ] DGC (Distributed Garbage Collection)
   - [ ] RMI (Remote Method Invocation)
     - [ ] Why?
     - [ ] How to create?
@@ -27,13 +34,7 @@
     - [ ] Stack
     - [ ] Execution engine
     - [ ] JNI (Java Native Interface)
-  - [ ] What is OOP
-  - [ ] Aggregation in Java
-  - [ ] Superclass in Java (java.lang.Object)
-  - [ ] `System` class
   - [ ] `volitale` variables
-  - [ ] Wrapper classes
-  - [ ] Singleton class
   - [ ] Hibernate `get()` `load()` methods
   - [ ] Default value of local variable
 - Databases. **TODO**. Decompose
