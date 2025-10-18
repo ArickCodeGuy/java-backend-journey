@@ -13,10 +13,12 @@ Before you go. Learn [basics](../basics/BASICS.md)
     - [ ] Schemas
     - [ ] Request
     - [ ] Query
+    - [ ] Caching
 - [ ] JVM. **TODO**. Decompose from [here](https://docs.oracle.com/en/java/javase/24/vm/java-virtual-machine-technology-overview.html)
 - [ ] Other frameworks
   - [ ] Struts
   - [ ] Dropwizard
+  - [ ] Spring Cloud
 - [ ] Web Fundamentals
   - [ ] HTTP, HTTPS
   - [ ] REST, RESTful, GraphQL
@@ -38,6 +40,7 @@ Before you go. Learn [basics](../basics/BASICS.md)
 - [ ] Integration
 - [ ] Mockito
 - [ ] JUnit 5
+- [ ] Testcontainers. DB testing
 
 ## Message queue
 
