@@ -4,11 +4,19 @@
 
 - Java
   - [ ] What is OOP
+    - [ ] Design patterns
+      - [ ] Singleton
+      - [ ] Factory
+      - [ ] SAGA
+    - [ ] Dependancy injection
+    - [ ] Method overloading
+    - [ ] Method overriding
+    - [ ] Comparing strings. Object equality.
+    - [ ] Hashmap. Hashing. 2 different keys have same hash.
   - [ ] Classes
     - [ ] Wrapper classes
     - [ ] Aggregation
     - [ ] Constructor
-    - [ ] Singleton class
     - [ ] `java.lang.System` class
     - [ ] `java.lang.Object` class. Superclass
   - [ ] Exceptions
@@ -37,6 +45,18 @@
   - [ ] `volitale` variables
   - [ ] Hibernate `get()` `load()` methods
   - [ ] Default value of local variable
+  - [ ] Java Memory Model (JMM)
+- Spring boot
+  - [ ] Why? What problem it solves?
+  - [ ] @Transactional
+  - [ ] @Bean
+  - [ ] Swagger
+  - [ ] How to connect to db
+  - [ ] Actuators
+  - [ ] Queries for searching in db
+  - [ ] Repository
+- Testing
+  - [ ] JUnit
 - Databases. **TODO**. Decompose
 - Optimization
   - [ ] Caching
