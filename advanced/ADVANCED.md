@@ -66,6 +66,8 @@ Before you go. Learn [basics](../basics/BASICS.md)
 - [ ] Migrations
 - [ ] JPA
 - [ ] Object-Relational Mapping (ORM)
+- [ ] ACID
+- [ ] CTE
 
 ## Extra
 
