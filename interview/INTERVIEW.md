@@ -11,19 +11,22 @@
     - [ ] Dependancy injection
     - [ ] Method overloading
     - [ ] Method overriding
-    - [ ] Comparing strings. Object equality.
-    - [ ] Hashmap. Hashing. 2 different keys have same hash.
+    - [ ] Comparing strings. Object equality
+    - [ ] Hashmap. Hashing. Hash collision
+    - [ ] Serialization, desiralization
   - [ ] Classes
+    - [ ] Superclass `java.lang.Object`
     - [ ] Wrapper classes
+    - [ ] Annonymous inner class
     - [ ] Aggregation
     - [ ] Constructor
     - [ ] `java.lang.System` class
-    - [ ] `java.lang.Object` class. Superclass
   - [ ] Exceptions
+    - [ ] `Exception` class
     - [ ] Checked
     - [ ] Unchecked
     - [ ] Exceptions handling
-    - [ ] Methods `Exception` class
+    - [ ] Methods
   - [ ] Threads, Runnable. Asynchronous code
     - [ ] Creating
     - [ ] Lifecycle
@@ -42,7 +45,9 @@
     - [ ] Stack
     - [ ] Execution engine
     - [ ] JNI (Java Native Interface)
-  - [ ] `volitale` variables
+  - [ ] `volatale` variables
+  - [ ] `this`
+  - [ ] Typecasting. Implicit, explicit
   - [ ] Hibernate `get()` `load()` methods
   - [ ] Default value of local variable
   - [ ] Java Memory Model (JMM)
