@@ -3,7 +3,7 @@
 [README.md template](https://github.com/ArickCodeGuy/readme-template)
 
 This repo is for traking my journey towards becoming backend dev.
-**Every** check within `.md` file should be followed with link
+**Every** check within `.md` file should be followed with link.
 
 ## Table of Contents
 
@@ -35,3 +35,7 @@ Let's start with obvious. Job requirements. If you don't have those skills in yo
 [Interviews](./interview/INTERVIEW.md)
 
 List of commonly asked questions, terms that needed to be **excelently** known. Every interview is different. You may not know every answer. If you struggle with answers you might need to study.
+
+## More on backend
+
+[Backend roadmap](https://roadmap.sh/backend) (Also have project ideas)
