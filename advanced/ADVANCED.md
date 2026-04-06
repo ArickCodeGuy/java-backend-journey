@@ -4,7 +4,15 @@ Before you go. Learn [basics](../basics/BASICS.md)
 
 ## General
 
-- [ ] JVM. **TODO**. Decompose from [here](https://docs.oracle.com/en/java/javase/24/vm/java-virtual-machine-technology-overview.html)
+- [ ] JRE, JDK, JVM
+- [ ] JMM - Java Memory Model
+  - [ ] Heap
+  - [ ] Method Area
+  - [ ] Stack
+  - [ ] Execution engine
+  - [ ] JNI (Java Native Interface)
+- [ ] ClassLoader
+- [ ] Java Reflection API
 - [ ] Other frameworks
   - [ ] Struts
   - [ ] Dropwizard
