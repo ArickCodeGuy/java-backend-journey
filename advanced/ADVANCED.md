@@ -4,14 +4,6 @@ Before you go. Learn [basics](../basics/BASICS.md)
 
 ## General
 
-- [ ] JRE, JDK, JVM
-- [ ] JMM - Java Memory Model
-  - [ ] Heap
-  - [ ] Method Area
-  - [ ] Stack
-  - [ ] Execution engine
-  - [ ] JNI (Java Native Interface)
-- [ ] ClassLoader
 - [ ] Java Reflection API
 - [ ] Other frameworks
   - [ ] Struts

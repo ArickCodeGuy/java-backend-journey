@@ -21,6 +21,23 @@
 - [x] [Lambda](./java/lambda/App.java) (08-08-2025)
 - [x] [Synchronizing threads](./java/syncing_threads/App.java) (09-08-2025)
 
+### Extra documentation
+
+- [ ] JRE, JDK, JVM
+- [ ] Types of Nested Classes
+  - [ ] Static Nested Class
+  - [ ] Non-static Nested Classes (Inner Classes)
+    - [ ] Member Inner Class
+    - [ ] Local Inner Class
+    - [ ] Anonymous Inner Class
+- [ ] JMM - Java Memory Model
+  - [ ] Heap
+  - [ ] Method Area
+  - [ ] Stack
+  - [ ] Execution engine
+  - [ ] JNI (Java Native Interface)
+- [ ] ClassLoader
+
 ## SQL
 
 [w3school](https://www.w3schools.com/sql/)
