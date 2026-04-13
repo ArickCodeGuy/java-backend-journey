@@ -2,7 +2,7 @@
 
 [README.md template](https://github.com/ArickCodeGuy/readme-template)
 
-This repo is for traking my journey towards becoming backend dev.
+This repo is for tracking my journey towards becoming backend dev.
 **Every** check within `.md` file should be followed with link.
 
 ## Table of Contents
@@ -11,18 +11,21 @@ This repo is for traking my journey towards becoming backend dev.
 - [Advanced](#advanced)
 - [Requirements](#requirements)
 - [Interviews](#interviews)
+- [Additional resources](#additional-resources)
+
+## Getting started
 
 ## Basics
 
 [Basics](./basics/BASICS.md)
 
-List of basic that needed to be known and **proven** to be known. Basics of java language, databases and all backend basic stuff
+List of basic that need to be known and **proven** to be known. Basics of java language, databases and all backend basic stuff
 
 ## Advanced
 
-Continuation of [basics](#basics) chapter. More in depth knowledge
-
 [Advanced](./advanced/ADVANCED.md)
+
+Continuation of [basics](#basics) chapter. More in depth knowledge
 
 ## Requirements
 
@@ -34,8 +37,10 @@ Let's start with obvious. Job requirements. If you don't have those skills in yo
 
 [Interviews](./interview/INTERVIEW.md)
 
-List of commonly asked questions, terms that needed to be **excelently** known. Every interview is different. You may not know every answer. If you struggle with answers you might need to study.
+List of commonly asked questions, terms that needed to be **excellently** known. Every interview is different. You may not know every answer. If you struggle with answers you might need to study.
 
-## More on backend
+## Additional Resources
 
-[Backend roadmap](https://roadmap.sh/backend) (Also have project ideas)
+[Backend roadmap](https://roadmap.sh/backend) (Also have project ideas)  
+[w3school](https://www.w3schools.com/sql/)  
+[spring.academy](https://spring.academy/courses/building-a-rest-api-with-spring-boot/lessons/implementing-get) simple spring boot crud app
