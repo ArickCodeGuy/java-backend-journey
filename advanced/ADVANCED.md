@@ -5,6 +5,9 @@ Before you go. Learn [basics](../basics/BASICS.md)
 ## General
 
 - [ ] Java Reflection API
+- [ ] Wildcard with bounds
+  - [ ] Extends
+  - [ ] Super
 - [ ] Other frameworks
   - [ ] Struts
   - [ ] Dropwizard
