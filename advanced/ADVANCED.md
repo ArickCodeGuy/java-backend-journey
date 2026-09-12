@@ -81,9 +81,9 @@ Before you go. Learn [basics](../basics/BASICS.md)
 - [ ] ACID
 - [ ] Normalization
 - [x] CTE
-- [ ] Indexes
+- [ ] Indexes. Primary keys, Foreign keys.
+- [ ] Locks. Pessimistic, optimistic
 
 ## Extra
 
-- [ ] [Javarush](https://javarush.com/quests/lectures/questsyntaxpro.level01.lecture07)
 - [ ] [SQL quiz](./SQL_QUIZ.md)
