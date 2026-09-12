@@ -77,7 +77,8 @@ TODO
 ## Databases
 
 - ACID
-- Optimization
+  - Isolation Levels
+- Query Optimization
 - Indexes. Keys
 - Locks. Optimistic, pessimistic
 
