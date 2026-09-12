@@ -61,13 +61,24 @@
 ## Spring boot
 
 - Why? What problem it solves?
-- @Transactional
-- @Bean
-- How to create controllers
+- `@Transactional`
+- `@Bean`
+- `@PostConstruct` and business logic in constructor
+- bean lifecycle
+- Dependancy injection in spring
+- Cyclic dependancies
+- Spring dependancies
+  - Web
+  - Security
+  - jakarta
+  - JPA Hibernate
+  - Actuators
+- Types of Spring Data
+- Persistent context. `EntityManager`, `Session`
+- How to map object to table item. `@Entity`, `@Id`. Why we need `@Id`
+- Caching in `EntityManager`
+- Different approaches to how to create controllers
 - How to connect to db
-- Actuators
-- Queries for searching in db
-- Repository
 - Config \*\* TODO
 
 ## Testing
