@@ -32,7 +32,7 @@
 - Hibernate `get()` `load()` methods
 - Default value of local variable
 
-## Exceptions.
+## Exceptions
 
 - Hierarchy
 - `Throwable`
@@ -79,11 +79,11 @@
 - Caching in `EntityManager`
 - Different approaches to how to create controllers
 - How to connect to db
-- Config \*\* TODO
+- Config **TODO**
 
 ## Testing
 
-TODO
+**TODO**
 
 ## Databases
 

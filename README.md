@@ -3,7 +3,7 @@
 [README.md template](https://github.com/ArickCodeGuy/readme-template)
 
 This repo is for tracking my journey towards becoming backend dev.
-**Every** check within `.md` file should be followed with link.
+Check within `.md` file should be followed with link.
 
 ## Table of Contents
 
@@ -12,8 +12,6 @@ This repo is for tracking my journey towards becoming backend dev.
 - [Requirements](#requirements)
 - [Interviews](#interviews)
 - [Additional resources](#additional-resources)
-
-## Getting started
 
 ## Basics
 
