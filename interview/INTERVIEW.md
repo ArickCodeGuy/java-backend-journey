@@ -46,6 +46,8 @@
 ## Threads
 
 - `Thread`, `Runnable`. Asynchronous code
+- Monitor, mutex, semaphore
+- `ForkJoinPool`
 - Create thread pool
 - Lifecycle
 - States
@@ -64,6 +66,7 @@
 - `@Transactional`
 - `@Bean`
 - `@PostConstruct` and business logic in constructor
+- Synchronization
 - bean lifecycle
 - Dependancy injection in spring
 - Cyclic dependancies
