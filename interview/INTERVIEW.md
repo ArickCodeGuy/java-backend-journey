@@ -63,11 +63,16 @@
 ## Spring boot
 
 - Why? What problem it solves?
+- What is `spring` and `spring boot`
 - `@Transactional`
 - `@Bean`
+  - What it is
+  - Scope
+  - Lifecycle
 - `@PostConstruct` and business logic in constructor
+- `@Aspects`
+- Application context
 - Synchronization
-- bean lifecycle
 - Dependancy injection in spring
 - Cyclic dependancies
 - Spring dependancies
@@ -103,3 +108,5 @@
 - High-load
 - Load-balancing
 - Prioritization
+- Memory leaks. How to know? Profiling, Heap dump
+- Debugging slow program. Logs, Metrics, Profiling
