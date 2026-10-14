@@ -69,6 +69,8 @@
   - What it is
   - Scope
   - Lifecycle
+- We have single interface and multiple beans. How to tell spring which bean should be used? qualifier, primary
+- What happens when @Transactional method calls other @Transactional method?
 - `@PostConstruct` and business logic in constructor
 - `@Aspects`
 - Application context
@@ -100,6 +102,7 @@
 - Query Optimization
 - Indexes. Keys
 - Locks. Optimistic, pessimistic
+- N + 1
 
 ## System design
 
