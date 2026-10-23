@@ -104,6 +104,14 @@
 - Locks. Optimistic, pessimistic
 - N + 1
 
+## Kafka
+- What is. Why use.
+- Producers
+- Consumers
+- Topics
+- Partitions
+- Brokers
+
 ## System design
 
 - Caching
